@@ -1,7 +1,8 @@
 name: belajar_dart_packages
 description: A starting point for Dart libraries or applications.
 version: 1.5.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://www.iqbalsuwandi20.com
+repository: https://github.com/iqbalsuwandi20/belajar-dart-packages
 
 environment:
   sdk: ^3.3.4
